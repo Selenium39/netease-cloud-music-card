@@ -21,4 +21,4 @@ jobs:
           USER_ID: 441527034
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
           REPO: "netease-cloud-music-card"
-          AUTHOR: "Nthily"
+          AUTHOR: "Selenium39"
